@@ -1,5 +1,6 @@
 🌐 README.md — SecureProductApi (Cyberpunk Edition)
-⚡ API sicura, containerizzata, scalabile. Costruita con ASP.NET Core 8, EF Core, SQL Server, Docker e pipeline DevSecOps.
+⚡ API sicura, containerizzata, scalabile. 
+Costruita con ASP.NET Core 8, EF Core, SQL Server, Docker e pipeline DevSecOps.
 
 🟣 SecureProductApi
 API REST moderna e sicura per la gestione dei prodotti, progettata con architettura pulita, logging, middleware personalizzato, containerizzazione e pipeline CI con SAST.
